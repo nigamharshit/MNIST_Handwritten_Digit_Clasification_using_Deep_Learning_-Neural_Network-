@@ -8,7 +8,7 @@ MNIST is a collection of handwritten digits from 0-9. Image of size 28 X 28
 # Code Requirements
 python 3.x with following modules installed
 
-numpy__
+numpy\
 tensorflow__
 keras__
 opencv2__
